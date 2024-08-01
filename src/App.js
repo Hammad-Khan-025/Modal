@@ -1,9 +1,9 @@
 import './App.css';
-import Tours from './Components/Tour';
+import SidebarModal from './Components/SidebarModal';
 
 function App() {
   return (
-    <Tours/>
+    <SidebarModal/>
   );
 }
 
